@@ -1,0 +1,15 @@
+.markdown p {
+  margin-bottom: 1rem;
+}
+
+.markdown p:last-of-type {
+  margin-bottom: 0;
+}
+
+.markdown a {
+  color: #2c7a7b;
+}
+
+.markdown a:hover {
+  text-decoration: underline;
+}
